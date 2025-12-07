@@ -1,3 +1,3 @@
 # jenkins-practice
 
-test
+push test
